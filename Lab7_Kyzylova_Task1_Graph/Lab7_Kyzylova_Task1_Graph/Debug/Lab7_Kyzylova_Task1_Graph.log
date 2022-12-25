@@ -1,0 +1,17 @@
+﻿Сборка начата 02.06.2021 11:06:48.
+     1>Проект "C:\Users\student\Desktop\Итог Кызылова\Lab7\Task1_CPP\Lab7_Kyzylova_Task1_Graph\Lab7_Kyzylova_Task1_Graph\Lab7_Kyzylova_Task1_Graph.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib UnitMain.cpp
+         UnitMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\Итог Кызылова\Lab7\Task1_CPP\Lab7_Kyzylova_Task1_Graph\Debug\Lab7_Kyzylova_Task1_Graph.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab7_Kyzylova_Task1_Graph.UnitAbout.resources /ASSEMBLYRESOURCE:Debug\Lab7_Kyzylova_Task1_Graph.UnitHelp.resources /ASSEMBLYRESOURCE:Debug\Lab7_Kyzylova_Task1_Graph.UnitMain.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\student\Desktop\Итог Кызылова\Lab7\Task1_CPP\Lab7_Kyzylova_Task1_Graph\Debug\Lab7_Kyzylova_Task1_Graph.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\UnitAbout.obj
+         Debug\UnitHelp.obj
+         Debug\UnitMain.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Lab7_Kyzylova_Task1_Graph.vcxproj -> C:\Users\student\Desktop\Итог Кызылова\Lab7\Task1_CPP\Lab7_Kyzylova_Task1_Graph\Debug\Lab7_Kyzylova_Task1_Graph.exe
+     1>Сборка проекта "C:\Users\student\Desktop\Итог Кызылова\Lab7\Task1_CPP\Lab7_Kyzylova_Task1_Graph\Lab7_Kyzylova_Task1_Graph\Lab7_Kyzylova_Task1_Graph.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.70
